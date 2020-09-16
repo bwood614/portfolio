@@ -1,0 +1,46 @@
+body {
+  color: #414141;               /* Dark gray */
+  background-color: #EEEEEE;    /* Light gray */
+  font-size: 18px;
+  font-family: 'Baloo Tammudu 2', cursive;
+}
+
+h1{
+  text-align: center;
+  background: #32A852;
+  border: 2px solid #414141;
+}
+
+a{
+  text-decoration: none;
+}
+
+.menu-link {
+  display: block;
+  color: #414141;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.menu-link:hover {
+  background-color: #a6baa0;
+}
+
+.introduction{
+  text-align: center;
+  background: #c4c4c4
+}
+
+.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #c2c2c2;
+}
+
+.menu-item {
+  display: inline;
+  float: left;
+}
